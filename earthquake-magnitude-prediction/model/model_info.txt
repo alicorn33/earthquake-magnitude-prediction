@@ -1,0 +1,3 @@
+Best model: RandomForest
+Features: ['latitude', 'longitude', 'depth']
+Classes: ['Light', 'Major', 'Minor', 'Moderate', 'Strong']
